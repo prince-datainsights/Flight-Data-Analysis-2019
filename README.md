@@ -42,7 +42,8 @@ Key Analysis & Findings :-
 * Flights with more stops tend to have higher average prices compared to non-stop flights.
 * Certain months showed higher flight frequency, indicating peak travel demand.
 
- Conclusion
+ Conclusion :
+ 
 This project demonstrates how Exploratory Data Analysis (EDA) can uncover meaningful insights from airline pricing data. 
 It highlights the relationship between flight duration, stops, additional services, and ticket prices.
 The analysis also helped strengthen my data cleaning, grouping, and visualization skills.
